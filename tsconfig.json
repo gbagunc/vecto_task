@@ -1,3 +1,26 @@
 {
-  "extends": "@react-native/typescript-config/tsconfig.json"
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@core/*": ["core/*/index.ts"],
+      "@components/*": ["components/*/index.ts"],
+      "@resources/*": ["resources/*", "resources/index.ts"],
+      "@containers/*": ["containers/*"],
+      "@api/*": ["api/*"],
+      "@screens/*": ["screens/*"],
+      "@assets/*": ["assets/*"],
+      "@types": ["types.ts"],
+      "@navigation/*": ["navigation/*.ts"],
+      "@store/*": ["store/index.ts", "store/*.ts"],
+    },
+    "sourceMap": true,
+    "allowJs": true,
+    "jsx": "react-jsx",
+    "rootDirs": ["src"],
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "declaration": true
+  },
+  "include": ["src/**/*", "./declarations.d.ts"]
 }

@@ -1,0 +1,181 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Inter/Inter-Black.ttf",
+      "sha1": "283fa65b96dc1f2d71c6504afb9610447bdcdf1b"
+    },
+    {
+      "path": "src/assets/fonts/Inter/Inter-Bold.ttf",
+      "sha1": "48747b7a60086f97af0d373febcbd1f1bee87f17"
+    },
+    {
+      "path": "src/assets/fonts/Inter/Inter-Light.ttf",
+      "sha1": "dd9ec1ae67dd85143bacf7a3cb37e9f0ac979843"
+    },
+    {
+      "path": "src/assets/fonts/Inter/Inter-Medium.ttf",
+      "sha1": "a418a8ba73bbcfa8c131c426ab836d78457afa9b"
+    },
+    {
+      "path": "src/assets/fonts/Inter/Inter-Regular.ttf",
+      "sha1": "7237d9cf55f177702066a28a4dde1e4c7e8ab576"
+    },
+    {
+      "path": "src/assets/fonts/Inter/Inter-SemiBold.ttf",
+      "sha1": "431007da316de60d85174aeec9b8389b5c73e7d6"
+    },
+    {
+      "path": "src/assets/fonts/Inter/Inter-Thin.ttf",
+      "sha1": "297919d59c9ba4fa17251cdb9f06c26ca906e593"
+    },
+    {
+      "path": "src/assets/images/banner1.jpg",
+      "sha1": "7783184a4b85a1e9ec773cd953877d9106309e40"
+    },
+    {
+      "path": "src/assets/images/banner2.jpg",
+      "sha1": "2642ad3d16ed78f55140f5bccc9cb6907a6e7094"
+    },
+    {
+      "path": "src/assets/images/banner3.jpg",
+      "sha1": "2480b0f026745bc56ad97a7434173de4f1a34d63"
+    },
+    {
+      "path": "src/assets/images/categories/automotive.jpg",
+      "sha1": "c9eac05f43712bab77ee4e85e2b886ba5970b30d"
+    },
+    {
+      "path": "src/assets/images/categories/fragrances.jpg",
+      "sha1": "4bef562ba7edd34b039c3a8dbcf1afb2d2717424"
+    },
+    {
+      "path": "src/assets/images/categories/furniture.jpg",
+      "sha1": "1cd6494f357a1a6a308bcf7c8738d39d62d1e402"
+    },
+    {
+      "path": "src/assets/images/categories/groceries.jpg",
+      "sha1": "bba9ae53db8606d3f400b9e3a64d7ebc2c242ca7"
+    },
+    {
+      "path": "src/assets/images/categories/home-decoration.jpg",
+      "sha1": "12f52451deb96a72790389aa4269a93c5eb0c91d"
+    },
+    {
+      "path": "src/assets/images/categories/laptops.jpg",
+      "sha1": "ebb2abd300ba231485ff6a8180f57aafd3013c2c"
+    },
+    {
+      "path": "src/assets/images/categories/lighting.jpg",
+      "sha1": "5597d72209bf900e3c98f03b53dda0109421898d"
+    },
+    {
+      "path": "src/assets/images/categories/mens-shirts.jpg",
+      "sha1": "360daca578afe7a48f524570d22d3f3078a548b8"
+    },
+    {
+      "path": "src/assets/images/categories/mens-shoes.jpg",
+      "sha1": "e90fa4eb9908f7a49122226cf2002ae11788f963"
+    },
+    {
+      "path": "src/assets/images/categories/mens-watches.jpg",
+      "sha1": "b0d1d4380c66866c7a57ee9394c9c45e9861d7bc"
+    },
+    {
+      "path": "src/assets/images/categories/motorcycle.jpg",
+      "sha1": "26e3cdab083f6fa1a74dbb438aaeaff00efc91ab"
+    },
+    {
+      "path": "src/assets/images/categories/skincare.jpg",
+      "sha1": "62a15adf205f898591038ee04ec8449b7742160b"
+    },
+    {
+      "path": "src/assets/images/categories/smartphones.jpg",
+      "sha1": "fb2643a7a3307d4d48b2af64aad8fc60ed877497"
+    },
+    {
+      "path": "src/assets/images/categories/sunglasses.jpg",
+      "sha1": "ac552d3d7700d9a8f845a24c443e18f8b32a753c"
+    },
+    {
+      "path": "src/assets/images/categories/tops.jpg",
+      "sha1": "5b4a7ebebe2fb8cff49e1097b6df2882dff8a426"
+    },
+    {
+      "path": "src/assets/images/categories/womens-bags.jpg",
+      "sha1": "e520873097d33bccf51b35700d44abc069fd8c1f"
+    },
+    {
+      "path": "src/assets/images/categories/womens-dresses.jpg",
+      "sha1": "2c82f06ff8d6f4a7cf4ab846c83702bb4e1cc110"
+    },
+    {
+      "path": "src/assets/images/categories/womens-jewellery.jpg",
+      "sha1": "5e47bf8707b037bb1966c836a5bbd459c250ca9d"
+    },
+    {
+      "path": "src/assets/images/categories/womens-shoes.jpg",
+      "sha1": "a86e6fd6429f3083bb109812981378f40d417865"
+    },
+    {
+      "path": "src/assets/images/categories/womens-watches.jpg",
+      "sha1": "f8924c7f77e4b344acc32895483608de97083eb9"
+    },
+    {
+      "path": "src/assets/images/secure.png",
+      "sha1": "95e72057dbb4d938f0dfda109caf28985444dcd5"
+    },
+    {
+      "path": "src/assets/images/splash.png",
+      "sha1": "4d02f814ec6c6224bc2598615986a4b1797e423a"
+    },
+    {
+      "path": "src/assets/icons/chevron-left.svg",
+      "sha1": "5b8c87c85b9489d2ff7eccc5d88c17c4ff236250"
+    },
+    {
+      "path": "src/assets/icons/eye-off.svg",
+      "sha1": "5654050a83051edc36fe70ee22e918aaa30e6a28"
+    },
+    {
+      "path": "src/assets/icons/eye.svg",
+      "sha1": "5fd7a50d870f414b55c25164bd6d824f1db21f83"
+    },
+    {
+      "path": "src/assets/icons/grid.svg",
+      "sha1": "6e3ec0a32f0df9a77eb71f3a16aace0eb49498b2"
+    },
+    {
+      "path": "src/assets/icons/heart.svg",
+      "sha1": "2a374840fd54875ddf867590e0f2ab0c02871fbe"
+    },
+    {
+      "path": "src/assets/icons/home.svg",
+      "sha1": "90617be61fdc171f1143eaf08f0d25ee41847240"
+    },
+    {
+      "path": "src/assets/icons/index.ts",
+      "sha1": "00b73594a8139dea0e063a7b2fecf39a87a0d682"
+    },
+    {
+      "path": "src/assets/icons/logo.svg",
+      "sha1": "b7f5e61bfe88d6a58e71f74368272c9a2b2ab011"
+    },
+    {
+      "path": "src/assets/icons/package.svg",
+      "sha1": "c3485755090c6455a0f71eaa053505a4d3946093"
+    },
+    {
+      "path": "src/assets/icons/rate-star.svg",
+      "sha1": "bf7769ab73d2d5511d9baa638f28ceeed7cd82e9"
+    },
+    {
+      "path": "src/assets/icons/search.svg",
+      "sha1": "2158fc25174941be982215034b68141b89e96ee3"
+    },
+    {
+      "path": "src/assets/icons/user.svg",
+      "sha1": "bd1602967f125f2b5a568f6292a4e15d5cedacfe"
+    }
+  ]
+}
